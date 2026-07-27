@@ -1,0 +1,23 @@
+.changeset/ledger.yaml
+  s_fa4dc7e0357359::t_74bd918d1adf89 1-4
+packages/artifacts-viewer/CHANGELOG.md
+  s_fa4dc7e0357359::t_1e581de7f963d3 3-8
+packages/artifacts-viewer/package.json
+  s_fa4dc7e0357359::t_3ae7f7ffc8e5e9 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "969b8dac8af1af7b25cec6c92ad0b0676a114bbf",
+  "prompts": {},
+  "sessions": {
+    "s_fa4dc7e0357359": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0722ba626ffe6HZrrIH8SRrqpH",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Dhruvil M. <git@mdhruvil.com>"
+    }
+  }
+}
