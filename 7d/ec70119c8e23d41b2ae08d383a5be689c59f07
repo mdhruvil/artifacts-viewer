@@ -1,0 +1,23 @@
+.changeset/jolly-rules-stay.md
+  s_fa4dc7e0357359::t_53ecddb6b9425b 1-5
+packages/artifacts-viewer/README.md
+  s_fa4dc7e0357359::t_a703b6733febf5 11-40,47,82-86,89,95-96,108-113,215,246,299-313,317-369,408,426,469,497,511
+packages/artifacts-viewer/src/react/artifact-repo-viewer.tsx
+  s_fa4dc7e0357359::t_df002944bc54b5 20-21,45-46,63,66-67,92,94,96,110,128,149,183,196,209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7dec70119c8e23d41b2ae08d383a5be689c59f07",
+  "prompts": {},
+  "sessions": {
+    "s_fa4dc7e0357359": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0722ba626ffe6HZrrIH8SRrqpH",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Dhruvil M. <git@mdhruvil.com>"
+    }
+  }
+}
