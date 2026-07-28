@@ -1,0 +1,31 @@
+apps/example/package.json
+  s_a9fdad21691105::t_425842ed303b37 15
+apps/example/src/examples/blockprint.css
+  s_a9fdad21691105::t_3518738e60aeeb 15-16,34-37,77-78,169-170,181-182,249-250
+apps/example/src/examples/broadsheet.css
+  s_a9fdad21691105::t_f80efcbc1fa65e 17-18,35-38,79-80,154-155,232-233
+apps/example/src/examples/nocturne.css
+  s_a9fdad21691105::t_bdfc07669012f5 16-17,34-37,87-88,170-171,237-238
+apps/example/src/examples/phosphor.css
+  s_a9fdad21691105::t_18c4512489a348 14-19,32-33,35-38
+pnpm-lock.yaml
+  s_a9fdad21691105::t_8e8cf7c0274473 214-216,270-272,645-647,2686-2687,3235,3239-3240,3259,3268,4166-4167,4179,4278,4302
+pnpm-workspace.yaml
+  s_a9fdad21691105::t_2f1b0820fea0a8 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2bbc485cc82bd2decb852b997c85ba918a88a8b8",
+  "prompts": {},
+  "sessions": {
+    "s_a9fdad21691105": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_058c6de77ffeu7YKxqT4KqR4vS",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Dhruvil M. <git@mdhruvil.com>"
+    }
+  }
+}
