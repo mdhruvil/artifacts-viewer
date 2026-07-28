@@ -1,0 +1,19 @@
+apps/example/worker-configuration.d.ts
+  s_fa4dc7e0357359::t_eff6330228ddea 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a9c4c9e42d123f2fb3672abd1fac103a3e95d24c",
+  "prompts": {},
+  "sessions": {
+    "s_fa4dc7e0357359": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0722ba626ffe6HZrrIH8SRrqpH",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Dhruvil M. <git@mdhruvil.com>"
+    }
+  }
+}
