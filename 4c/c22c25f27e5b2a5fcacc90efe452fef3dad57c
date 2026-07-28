@@ -1,0 +1,19 @@
+.changeset/happy-laws-peel.md
+  s_a9fdad21691105::t_bbdd123fb893a4 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4cc22c25f27e5b2a5fcacc90efe452fef3dad57c",
+  "prompts": {},
+  "sessions": {
+    "s_a9fdad21691105": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_058c6de77ffeu7YKxqT4KqR4vS",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Dhruvil M. <git@mdhruvil.com>"
+    }
+  }
+}
