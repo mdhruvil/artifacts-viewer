@@ -1,0 +1,19 @@
+packages/artifacts-viewer/README.md
+  s_fa4dc7e0357359::t_25ab9a72057f22 3,5-58,66-111,114,118-121,123-334,338-505,507,509
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e132cedada251e18694817523065959db092cd0d",
+  "prompts": {},
+  "sessions": {
+    "s_fa4dc7e0357359": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0722ba626ffe6HZrrIH8SRrqpH",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Dhruvil M. <git@mdhruvil.com>"
+    }
+  }
+}
